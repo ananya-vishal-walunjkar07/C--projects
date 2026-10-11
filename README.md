@@ -1,1 +1,3 @@
-# C-_projects
+# C++ projects
+
+Practicing and learning!
